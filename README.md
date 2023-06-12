@@ -1,7 +1,6 @@
 # SimpleCalculator
 
 This is a simple yet stylish Calculator made using HTML, CSS and JavaScript.
-Try to find some easter eggs in the calculator itself.
 
 PRs are always welcomed.
 
